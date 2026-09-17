@@ -15,5 +15,5 @@
 
 👤 **Bulat Din**
 
-* Website: https://github.com/Korjick
+* Website: http://korjick.github.io/
 * Github: [@Korjick](https://github.com/Korjick)
